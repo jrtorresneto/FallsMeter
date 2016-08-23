@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FallsMeter</string>
+    <string name="action_settings">Settings</string>
+    <string name="lb_out">T: X: Y: Z:</string>
+    <string name="lbl_Out">Mob Accelerometer:</string>
+    <string name="lb_Gyro">Mob Gyroscope:</string>
+    <string name="bt_start">Start</string>
+    <string name="bt_Stop">Stop</string>
+
+
+    <string name="classe_prompt">Escolha a Classe</string>
+    <string name="lb_wear_acc">Wear Accelerecometer:</string>
+    <string name="lb_wear_gir">Wear Gyroscope:</string>
+    <string-array name="classe_arrays">
+        <item>Andando</item>
+        <item>Correndo</item>
+        <item>Deitado</item>
+        <item>Em pé</item>
+        <item>Queda</item>
+        <item>Sentado</item>
+    </string-array>
+</resources>
